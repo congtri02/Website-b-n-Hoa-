@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans:ital@0;1&display=swap');
+
+body, .main-menu > li > a, .ltext-102 {
+    font-family: 'Roboto', sans-serif ;
+}
+.hidden  {
+    display: none !important;
+}
+.block2 > .block2-pic{
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+
